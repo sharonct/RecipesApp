@@ -494,43 +494,5 @@ footer {
        
         
     }
-    .search{
-        width:100%;
-        position:relative;
-        display:flex;
-    }
-    .searchTerm{
-        width:100%;
-        border: 3px solid #00B4;
-        border-right: none;
-        padding:5px;
-        height:20px;
-        border-radius: 5px 0 0 5px;
-        outline:none;
-        color:#9DBFAF
-        ;
-    }
-    .searchTerm:focus{
-        color: rgba(1231, 81, 11, 0.267);
-
-    }
-    .searchButton{
-        width: 40px;
-        height: 46px;
-        border: 1px solid rgba(231, 81, 11, 0.267);
-        background: rgba(231, 81, 11, 0.267);
-        text-align: center;
-        color: #fff;
-        border-radius: 0 5px 5px 0;
-        cursor: pointer;
-        font-size: 20px;
-    }
-    .wrap{
-        width: 70%;
-        position: absolute;
-        top:30%;
-        left:50%;
-        transform:translate(-50%,-50%)
-    }
-        
+    
 }

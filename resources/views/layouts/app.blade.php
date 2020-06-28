@@ -30,14 +30,6 @@
         @include("includes.nav")
         @include("includes.messages")
         
-        <div class="wrap">
-            <div class="search">
-                <input type="text" class ="searchTerm" placeholder="Search by dish name or a list of ingredients!!">
-                <button type="submit" class="searchButton">
-                    <i class="fa fa-search"></i>
-                </button>
-            </div>
-        </div>
         </header>
         
         <main>
